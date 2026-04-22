@@ -67,7 +67,7 @@ The dashboard is designed for quick understanding and business decision‑making
 
 ## 📊 Power BI Dashboard Preview
 
-![Customer Purchase Behavior Dashboard](images/PowerBI_Dashboard.png)
+![Customer Purchase Behavior Dashboard](images/powerbi_dashboard.png)
 
 ---
 
