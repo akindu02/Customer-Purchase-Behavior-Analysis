@@ -65,6 +65,10 @@ The Power BI dashboard provides clear visual insights, including:
 
 The dashboard is designed for quick understanding and business decision‑making.
 
+## 📊 Power BI Dashboard Preview
+
+![Customer Purchase Behavior Dashboard](images/PowerBI Dashboard.png)
+
 ---
 
 ## 🔍 Key Insights
