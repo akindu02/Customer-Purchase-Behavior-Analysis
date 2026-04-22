@@ -108,4 +108,4 @@ The dashboard is designed for quick understanding and business decision‑making
 
 ## 👤 Author
 **SAMARASINGHE A.N.**  
-Beginner Data Analyst
+Aspiring Data Analyst
